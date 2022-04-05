@@ -6,6 +6,7 @@ int main()
     int LA[] = {1,3,5,7,8};
     int item = 5, n = 5;
     int i = 0, j = 0;
+    int i = 7, j = 4;
 
     printf("The original array elements are :\n");
 
